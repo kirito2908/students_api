@@ -1,0 +1,1 @@
+This is just an API repository for Students Portal
